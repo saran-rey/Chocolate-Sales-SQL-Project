@@ -3,7 +3,7 @@ This project is done by Saran R for showcasing skills in SQL using PostgreSQl an
 
 ## Dataset
 Dataset for this project was obtained from Kaggle.
-![Chocolate_Sales.csv](https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales)
+[Chocolate_Sales.csv](https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales)
 
 ## Objective
 To clean and derive business insights from the raw dataset with simple Querries.
