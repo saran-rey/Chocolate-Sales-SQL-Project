@@ -14,7 +14,8 @@ Data was cleaned by using Excel.
 #### Before
 ![Screenshot 2025-04-22 072056](https://github.com/user-attachments/assets/f71c7657-9b7c-488b-833a-a60a8478ea55)
 #### After
-![Screenshot 2025-04-22 072210](https://github.com/user-attachments/assets/120d2616-ff33-4174-a032-7d92ace1cef2)
+![Screenshot 2025-04-22 074118](https://github.com/user-attachments/assets/23b6d170-828b-41f5-a39f-0b4edc44b05c)
+
 - Data types corrcted
 - Date format corrected
 - Sales id was added for precision and primary key.
