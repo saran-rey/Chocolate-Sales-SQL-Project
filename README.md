@@ -1,26 +1,25 @@
 # Chocolate-Sales-SQL-Project
-This is an porject by Saran R for showcasing skill in SQL using PostgreSQl and pgAdmiin4 for data analysis.
+This project is done by Saran R for showcasing skills in SQL using PostgreSQl and pgAdmin4 interface for data analysis.
 
 ## Dataset
-Datais was obtained from Kaggle.
-[https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales]
+Dataset for this project was obtained from Kaggle.
+![Chocolate_Sales.csv](https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales)
 
 ## Objective
 To clean and derive business insights from the raw dataset with simple Querries.
 
 ## Steps Taken
-### Cleaning data
+### Cleaning Data
 Data was cleaned by using Excel.
+- Data types corrcted
+- Date format corrected
+- Sales id was added as primary key.
 #### Before
 ![Screenshot 2025-04-22 072056](https://github.com/user-attachments/assets/f71c7657-9b7c-488b-833a-a60a8478ea55)
 #### After
 ![Screenshot 2025-04-22 074118](https://github.com/user-attachments/assets/23b6d170-828b-41f5-a39f-0b4edc44b05c)
 
-- Data types corrcted
-- Date format corrected
-- Sales id was added for precision and primary key.
-
-### Establishing a Table
+### Establishing the Table
 A data base was allocated in the PostgeSQl seperately for this project namely "chocolate_project" directly from the pgAdmin UI.
 ![Screenshot 2025-04-22 071514](https://github.com/user-attachments/assets/6f627971-8b05-4ed7-a444-299d813808cf)
 
