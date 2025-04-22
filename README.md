@@ -23,7 +23,7 @@ Data was cleaned by using Excel.
 A data base was allocated in the PostgeSQl seperately for this project namely "chocolate_project" directly from the pgAdmin UI.
 ![Screenshot 2025-04-22 071514](https://github.com/user-attachments/assets/6f627971-8b05-4ed7-a444-299d813808cf)
 
-#### The Schema
+#### The Schema of the Table
 ```sql
 create table if not exists Choco_sales
 	(
