@@ -39,7 +39,7 @@ create table if not exists Choco_sales
 ```
 
 ### Importing Data 
-Data was imported from the UI option of phAdmin.
+Data was imported from the UI option of pgAdmin4.
 ![Screenshot 2025-04-22 072644](https://github.com/user-attachments/assets/fc16cc3e-b007-4b75-ad20-786efdcbb275)
 
 ### Querries
