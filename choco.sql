@@ -13,7 +13,7 @@ create table if not exists Choco_sales
 		boxes_shipped integer
 	);
 
--- Import data from csv file fiele pgAdmin's import feature
+-- Import data from csv file via pgAdmin GUI's import feature
 
 --checing all data
 select * 
